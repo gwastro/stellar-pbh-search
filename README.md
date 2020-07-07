@@ -1,5 +1,5 @@
 # Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes.
-**Alexander H. Nitz<sup>1, 2</sup>, Yi-Fan Wang<sup>1, 2</sup>/sup>**
+**Alexander H. Nitz<sup>1, 2</sup>, Yi-Fan Wang<sup>1, 2</sup>**
 
  <sub>1. [Albert-Einstein-Institut, Max-Planck-Institut for Gravitationsphysik, D-30167 Hannover, Germany](http://www.aei.mpg.de/obs-rel-cos)</sub>  
  <sub>2. Leibniz Universitat Hannover, D-30167 Hannover, Germany</sub>  
