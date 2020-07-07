@@ -7,16 +7,14 @@
 ## Introduction ##
 
 We present the first search for gravitational waves from the coalescence of stellar mass
-and subsolar mass black holes with masses between 20 - 100 M and 0.01 - 1 M(10−10^3 MJ ), respectively.
-The observation of a single sub-solar mass black hole would establish the existence of primordial
-black holes and a possible component of dark matter. We search the ∼ 164 days of public LIGO
+and subsolar mass black holes with masses between 20 - 100 Msun and 0.01 - 1 Msun(10−10^3 MJ ), respectively. The observation of a single sub-solar mass black hole would establish the existence of primordial black holes and a possible component of dark matter. We search the ∼ 164 days of public LIGO
 data from 2015-2017 when LIGO-Hanford and LIGO-Livingston were simultaneously observing.
 We find no significant candidate gravitational-wave signals. Using this non-detection, we place
-a 90% upper limit on the rate of 30 − 0.01 M and 30 − 0.1 M mergers at < 1.2 × 10^6
-and < 1.6 × 10^4 Gpc−3 yr−1, respectively. If we consider binary formation through direct
+a 90% upper limit on the rate of 30 − 0.01 Msun and 30 − 0.1 Msun mergers at < 1.2 × 10^6
+and < 1.6 × 10^4 Gpc^−3 yr^−1, respectively. If we consider binary formation through direct
 gravitationalwave braking, this kind of merger would be exceedingly rare if only the lighter black hole were
-primordial in origin (< 10−4 Gpc−3 yr−1). If both black holes are primordial in origin, we constrain
-the contribution of 1(0.1) M black holes to dark matter to < 3(0.3)%.
+primordial in origin (< 10^−4 Gpc^−3 yr^−1). If both black holes are primordial in origin, we constrain
+the contribution of 1(0.1) Msun black holes to dark matter to < 3(0.3)%.
 
 
 
