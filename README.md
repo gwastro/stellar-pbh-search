@@ -19,7 +19,7 @@ the contribution of 1(0.1) Msun black holes to dark matter to < 3(0.3)%.
 
 
 This is the associated data release for our search for sub-solar mass black holes merging with stellar-mass black holes. A preprint version of the paper
-is [available on arxiv](). This release contains configuration files of the search, a top list of candidates, and the template bank used for the analysis. 
+is [available on arxiv](https://arxiv.org/abs/2007.03583). This release contains configuration files of the search, a top list of candidates, and the template bank used for the analysis. 
 
 
 
@@ -35,12 +35,12 @@ We encourage use of these data in derivative works. If you use the material prov
 ```
 @article{Nitz:2020,
       author         = "Nitz, Alexander H. and Wang, Yi-Fan",
-      title          = "{}",
+      title          = "{Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes.}",
       year           = "2020",
-      eprint         = "XXXX.XXXXXX",
+      eprint         = "2007.03583",
       archivePrefix  = "arXiv",
       primaryClass   = "astro-ph.HE",
-      SLACcitation   = "%%CITATION = ARXIV:XXXX.XXXXXX;%%"
+      SLACcitation   = "%%CITATION = ARXIV:2007.03583;%%"
 }
 ```
 
