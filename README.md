@@ -34,13 +34,13 @@ We encourage use of these data in derivative works. If you use the material prov
 
 ```
 @article{Nitz:2020,
-      author         = "Nitz, Alexander H. and Wang, Yi-Fan",
-      title          = "{Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes.}",
-      year           = "2020",
-      eprint         = "2007.03583",
-      archivePrefix  = "arXiv",
-      primaryClass   = "astro-ph.HE",
-      SLACcitation   = "%%CITATION = ARXIV:2007.03583;%%"
+    author = "Nitz, Alexander Harvey and Wang, Yi-Fan",
+    title = "{Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes}",
+    eprint = "2007.03583",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.HE",
+    month = "7",
+    year = "2020"
 }
 ```
 
