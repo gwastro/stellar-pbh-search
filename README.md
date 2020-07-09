@@ -14,7 +14,7 @@ a 90% upper limit on the rate of 30 − 0.01 Msun and 30 − 0.1 Msun mergers 
 and < 1.6 × 10^4 Gpc^−3 yr^−1, respectively. If we consider binary formation through direct
 gravitationalwave braking, this kind of merger would be exceedingly rare if only the lighter black hole were
 primordial in origin (< 10^−4 Gpc^−3 yr^−1). If both black holes are primordial in origin, we constrain
-the contribution of 1(0.1) Msun black holes to dark matter to < 3(0.3)%.
+the contribution of 1(0.1) Msun black holes to dark matter to < 0.3(3)%.
 
 
 
