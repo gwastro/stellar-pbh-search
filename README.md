@@ -33,7 +33,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unite
 We encourage use of these data in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{Nitz:2020,
+@article{Nitz:2020bdb,
     author = "Nitz, Alexander Harvey and Wang, Yi-Fan",
     title = "{Search for gravitational waves from high-mass-ratio compact-binary mergers of stellar mass and sub-solar mass black holes}",
     eprint = "2007.03583",
